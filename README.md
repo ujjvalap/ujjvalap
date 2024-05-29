@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujjval Pateliya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width=400 src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-programmer-doing-coding-work-9560195-7793573.mp4">
+<video align="right" alt="coding" width=400> src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-programmer-doing-coding-work-9560195-7793573.mp4"</video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjvalapateliya&label=Profile%20views&color=0e75b6&style=flat" alt="ujjvalapateliya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ujjvalpateliya" target="blank"><img src="https://img.shields.io/twitter/follow/ujjvalpateliya?logo=twitter&style=for-the-badge" alt="ujjvalpateliya" /></a> </p>
