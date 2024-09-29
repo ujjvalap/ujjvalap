@@ -1,31 +1,153 @@
-<h1 align="center">Hi 👋, I'm Ujjval Pateliya</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width=400 src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjvalapateliya&label=Profile%20views&color=0e75b6&style=flat" alt="ujjvalapateliya" /> </p>
+<!--
+**MdNadeemSarwar/MdNadeemSarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="left"> <a href="https://twitter.com/ujjvalpateliya" target="blank"><img src="https://img.shields.io/twitter/follow/ujjvalpateliya?logo=twitter&style=for-the-badge" alt="ujjvalpateliya" /></a> </p>
+Here are some ideas to get you started:
 
-- 🌱 I’m currently learning *Framework course etc.*
-
-- 📫 How to reach me *ujjvalpateliya@gmail.com*
-
-- ⚡ Fun fact *I am funny*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/UjjvalPateliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjvalpateliya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/ujjval-pateliya-qwer2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ujjval-pateliya-qwer2005" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ujjval.pateleya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ujjval.pateleya" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ujjaval_1701?igsh=adbhowmznmxradj6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ujjaval_1701?igsh=adbhowmznmxradj6" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ujjvalpateliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ujjvalpateliya" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ujjvalpateliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ujjvalpateliya" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjvalapateliya&show_icons=true&locale=en&layout=compact" alt="ujjvalapateliya" /></p>
-
-<p>&nbsp;<img align="center" src="data:image/png;base64,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" alt="ujjvalapateliya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjvalapateliya&" alt="ujjvalapateliya" /></p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<p align="center">
+    <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+        <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'Ujjval Patliya..;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
+        
+    
+        
+    # 🖥️ Technical Skills: 
+    <p align="left">
+      <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </a>
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+      </a>
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+      </a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      </a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+      </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+      </a>
+      <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+      </a>
+      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+      </a>
+      <a href="https://www.oracle.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+      </a>
+      <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
+      </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+      <a href="https://www.github.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+      </a>
+      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+      </a>
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+      </a>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+      </a>
+      <a href="https://angular.io/" target="_blank" rel="noreferrer">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+      </a>
+      <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
+      </a>
+      <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/>
+      </a>
+      <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
+      </a>
+      <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
+      </a>
+      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="developerandroid" width="40" height="40"/>
+      </a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
+      </a>
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+      </a>
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      </a>
+      <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+      </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+      </a>
+      <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+      </a>
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+      </a>
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+      </a>
+      <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+      </a>
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+      </a>
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+      </a>
+      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+      </a>
+      <a href="https://graphql.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+      </a>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+      </a>
+    </p>
+    
+    # 📊 GitHub Stats:
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+    ![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+    <br/>
+    ## 🏆 GitHub Trophies
+    ![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+    <!--START_SECTION:waka-->
+    
+    ```text
+    Python   3 hrs 58 mins    █████████████████████████   100.00 %
+    ```
+    <!--END_SECTION:waka-->
+    ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mdnadeemsarwar.mdnadeemsarwar.svg)
