@@ -63,17 +63,6 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="left" src="https://github.com/ujjvalap/api/top-langs?username=ujjvalap&show_icons=true&locale=en&layout=compact" alt="ujjvalapateliya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github.com/ujjvalap/api?username=ujjvalap&show_icons=true&locale=en" alt="ujjvalapateliya" /></p>
-
-<p><img align="center" src="https://github.com/ujjvalap/?user=ujjvala&" alt="ujjvalapateliya" /></p>
-
-
-
-<br clear="both">
-
-
 
 
 
