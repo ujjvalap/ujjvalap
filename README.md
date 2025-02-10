@@ -2,9 +2,9 @@
 
 <!-- Typing animation for introduction -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ujjval Pateliya..;Learning+In+Public..;Nice+To+Meet+You+....&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ujjwal+Pateliya..;Learning+In+Public..;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
 </p>
-       
+
 <!-- Profile views counter -->
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=ujjvalap&label=Profile%20views&color=0e75b6&style=flat" alt="ujjvalap" />
