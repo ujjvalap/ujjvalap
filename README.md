@@ -2,7 +2,7 @@
 
 <!-- Typing animation for introduction -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ujjwal+Pateliya..;Learning+In+Public..;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ujjval+Pateliya..;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
 </p>
 
 <!-- Profile views counter -->
@@ -65,8 +65,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
     <!-- Figma -->
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    <!-- Flutter -->
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
     <!-- Git -->
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     <!-- GitHub -->
