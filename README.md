@@ -6,9 +6,9 @@
 </p>
 
 <!-- Profile views counter -->
-<p align="left">
+<!-- <p align="left">
     <img src="https://komarev.com/ghpvc/?username=ujjvalap&label=Profile%20views&color=0e75b6&style=flat" alt="ujjvalap" />
-</p>
+</p> -->
 
 <!-- GitHub Profile Trophy -->
 <p align="left">
