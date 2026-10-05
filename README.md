@@ -114,9 +114,9 @@ const ujjval = {
 
 | 🔭 Working on | 🌱 Learning | 💡 Interested in |
 |:---:|:---:|:---:|
-| Full Stack Projects | System Design | Open Source |
-| MERN Stack Apps | Cloud (AWS/GCP) | Developer Tools |
-| DSA Practice | Docker & K8s | SaaS Products |
+| Java Full Stack Projects | Spring Boot | Java Development |
+| Java Backend Applications | Docker & Kubernetes | DevOps & Cloud |
+| Full Stack Applications | AWS & CI/CD | Backend Engineering |
 
 </div>
 
