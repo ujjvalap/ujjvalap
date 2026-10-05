@@ -56,17 +56,6 @@ const ujjval = {
 
 
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjvalap&bg_color=0D1117&color=6366F1&line=6366F1&point=E6EDF3&area=true&hide_border=true" />
-</div>
-
-<br/>
-
----
 
 ## 🛠️ Tech Stack
 
