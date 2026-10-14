@@ -64,7 +64,7 @@ A college-focused platform for coding assessments, quizzes, and student performa
 
 **Built with:** React · Node.js · Express · MongoDB
 
-<a href="https://github.com/ujjvalap"><b>Explore Repository →</b></a>
+<a href="https://github.com/ujjvalap/Codenest_Client"><b>Explore Repository →</b></a>
 
 </td>
 <td width="50%" valign="top">
